@@ -22,3 +22,9 @@ console.log(playerName + " is in " + locationName);
  *    with a new one to display the message variable.
  *
  */
+
+var name = "Sivavetrivel"
+var qualification = "Master Of Computer Application"
+var college = "Kgisl."
+
+console.log(name +" is Pursuing " + qualification +" in "+ college);
