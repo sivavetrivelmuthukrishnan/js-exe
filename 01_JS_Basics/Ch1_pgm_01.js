@@ -19,6 +19,8 @@ console.log("Hello World!");
 Answers:
 
 console.log("My name is sivavetrivel");
+console.log("I am a Progammer");
+console.log("I Love India");
 
 
 
