@@ -16,5 +16,6 @@ var score;
  */
 ANSWER:
 
-var score=4;
-console.log(score);
+ var name;
+ var age;
+ var sex; 
