@@ -21,3 +21,14 @@ console.log(playerName + " is in " + locationName);
  *    something like "Lionel Messi has a score of 100"
  *
  */
+/* Answer */
+
+var name;
+var qualification;
+var college;
+
+name = "Sivavetrivel M";
+qualification = "  Master Of Computer Application";
+college = "KGISL.";
+
+console.log(name  +" is Pursuing" + qualification +" in " +college  );
