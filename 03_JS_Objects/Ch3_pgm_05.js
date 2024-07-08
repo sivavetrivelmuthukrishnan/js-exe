@@ -22,3 +22,7 @@ book = {
  *    The book object should be displayed.
  *
  */
+
+var book2 = {
+    title : "Wings Of Fire"
+};
