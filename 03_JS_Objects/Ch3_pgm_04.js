@@ -20,3 +20,7 @@ book = {};
  *    to the outcome.
  *
  */
+
+console.log("Create a Empty Objects")
+
+var book2 = {};
