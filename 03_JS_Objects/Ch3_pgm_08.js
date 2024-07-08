@@ -11,6 +11,16 @@ book = {
 console.log(book.title);
 console.log(book.author);
 
+var book2={
+	title : "Wings Of Fire",
+	author : "Dr.A.P.J. Abdul Kalam",
+	published : 1999
+}
+
+console.log(book2.title);
+console.log(book2.author);
+console.log(book2.published);
+
 
 
 /* Further Adventures
