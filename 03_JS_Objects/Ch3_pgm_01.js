@@ -23,3 +23,33 @@ console.log(bookTitle + " by " + bookAuthor);
  *    For 100 books.
  *
  */
+
+var bookTitle2;
+var bookAuthor2;
+
+bookTitle2 = "Java";
+bookAuthor2 = "Albert";
+
+console.log(bookTitle2 + " by " + bookAuthor2);
+
+
+var bookTitle3;
+var bookAuthor3;
+
+bookTitle3 = "Python";
+bookAuthor3 = "Guido Van";
+
+console.log(bookTitle3 + " by "+bookAuthor3 );
+
+var bookTitle4;
+var bookAuthor4;
+
+bookTitle4 = "Html";
+bookAuthor4 = "Richerd";
+
+console.log(bookTitle4 +" by "+bookAuthor4);
+
+
+
+
+
