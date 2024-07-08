@@ -6,12 +6,6 @@ var _underscore56;
 var StartWithCapital;
 var z5;
 
-var 999;
-var 39Steps;
-var &nope;
-var single words only;
-var yield;
-
 
 
 /* Further Adventures
@@ -27,3 +21,12 @@ var yield;
  *    See how the errors change.
  *
  */
+
+/* Answer */
+
+console.log("The valid Variable Formates")
+var thisIsFine;
+var $noProblemHere;
+var _underscore56;
+var StartWithCapital;
+var z5;
