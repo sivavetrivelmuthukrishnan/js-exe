@@ -9,6 +9,20 @@ book = {
     title : bookName
 };
 
+/* Answer */
+var book;
+var bookname;
+
+bookName = "Wings Of Fire";
+
+book = {
+    title : bookName
+}
+
+
+console.log(book);
+
+
 
 
 /* Further Adventures
