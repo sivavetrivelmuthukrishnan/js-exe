@@ -23,3 +23,21 @@ console.log(book);
  * 3) Log book2 to the console.
  *
  */
+
+
+
+var book2={
+    title : "Wings Of Fire",
+    Author : "Dr.A.P.J Abdul Kalam",
+    published :  1999
+}
+
+console.log(book2);
+
+var book3 = {
+    title : "The Beatiful World",
+    Author : "Albert",
+    published : 2002
+}
+
+console.log(book3);
