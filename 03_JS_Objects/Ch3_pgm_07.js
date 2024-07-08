@@ -14,6 +14,13 @@ book2 = {
 };
 
 
+book3 = {
+    title : "Thirukural",
+    author : "Thiruvalluvar"
+}
+
+console.log(book3);
+
 
 /* Further Adventures
  *
