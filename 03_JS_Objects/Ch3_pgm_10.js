@@ -10,7 +10,23 @@ player1 = {
 
 player1.attempted = 1;
 player1.correct = 1;
-player1.score = 50;
+player1.score = 100;
+
+
+var player2;
+player2 = {
+    name : "Siva",
+    attempted:4,
+    correct : 2,
+
+
+
+}
+
+player2.attempted = 7;
+player2.correct = 5;
+
+console.log(player2);
 
 
 
