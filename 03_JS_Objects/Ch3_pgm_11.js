@@ -10,9 +10,18 @@ player1 = {
 console.log(player1.name + " has scored " + player1.score);
 
 player1.score = player1.score + 50;
+player1.score = player1.score + 55;//increase the value in 10%
 
 console.log(player1.name + " has scored " + player1.score);
 
+var player2 ;
+player2 = {
+	name : "siva",
+	score :90
+};
+console.log(player2.name +" has Scored "+player2.score);
+player2.score = player2.score +5;
+console.log(player2.name +" has Scored "+player2.score);
 
 
 /* Further Adventures

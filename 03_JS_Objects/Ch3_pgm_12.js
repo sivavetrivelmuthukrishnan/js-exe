@@ -9,6 +9,14 @@ var post = {
 };
 
 
+var post2 = {
+	id :2,
+	title : "The wings of Fire",
+	author : "Dr.A.P.J.Abdul Kalam",
+	created : "1999",
+	body : "An inspiring account of a simple man's journey to extraordinary achievements. "
+}
+console.log(post2)
 
 /* Further Adventures
  *
