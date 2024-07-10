@@ -9,6 +9,7 @@ var location = {
     "longitude" : -122.418,
     "elevation" : 47.000
   };
+  console.log(location)
   
   
   
@@ -39,3 +40,18 @@ var location = {
    *    instead of location.
    *
    */
+
+  /* Answer */
+  var geolocation;
+  geolocation = {
+    "city" : "Coimbatore",
+    "State" : "Tamil Nadu",
+    "country" : "India",
+    "latitude"  : 37.775,
+    "longitude" : -122.418,
+    "elevation" : 47.000,
+    "Zip" : "641113"
+
+  }
+
+  console.log(geolocation);
