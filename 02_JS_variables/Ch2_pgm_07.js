@@ -23,8 +23,9 @@ console.log(playerName + " is in " + locationName);
  *
  */
 
-var name = "Sivavetrivel"
-var qualification = "Master Of Computer Application"
-var college = "Kgisl."
+/* Answer */
+var health;
+health = 50;
+var message = playerName +" has a health " +health + "is in " + locationName;
+console.log(message); 
 
-console.log(name +" is Pursuing " + qualification +" in "+ college);
