@@ -5,8 +5,11 @@ var locationName;
 
 playerName = "Lionel Messi";
 locationName = "Argentina";
+score = 100;
 
 console.log(playerName + " is in " + locationName);
+
+
 
 
 
@@ -23,12 +26,4 @@ console.log(playerName + " is in " + locationName);
  */
 /* Answer */
 
-var name;
-var qualification;
-var college;
-
-name = "Sivavetrivel M";
-qualification = "  Master Of Computer Application";
-college = "KGISL.";
-
-console.log(name  +" is Pursuing" + qualification +" in " +college  );
+console.log(playerName + " has a score of " +score);
